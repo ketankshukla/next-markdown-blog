@@ -1,5 +1,5 @@
 ---
-title: 'Netflix TPM Interview Questions'
+title: 'Netflix TPM Interview Questions - ChatGPT 4o'
 date: 'September 23, 2024'
 excerpt: 'These are questions for Technical Program Manager at Netflix'
 cover_image: '/images/posts/img2.jpg'
