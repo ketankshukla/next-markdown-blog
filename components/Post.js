@@ -1,23 +1,22 @@
 import Link from 'next/link'
 
-export default function Post({ post }) {
-  return (
-    <div className='card'>
-      <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
+export default function Post({post}) {
+    return (
+        <Link href={`/blog/${post.slug}`} className='btn'>
+            <div className='card'>
 
-      <div className='post-date'>{post.frontmatter.date}</div>
+                <img src={post.frontmatter.cover_image} alt={post.frontmatter.title}/>
 
-      <h3>{post.frontmatter.title}</h3>
-      <p>
-        {
-          // truncate the post excerpt to 70 characters
-          post.frontmatter.excerpt.substring(0, 500)
-        }
-      </p>
+                <div className='post-date'>{post.frontmatter.date}</div>
 
-      <Link href={`/blog/${post.slug}`} className='btn'>
-        Read More
-      </Link>
-    </div>
-  )
+                <h3>{post.frontmatter.title}</h3>
+                <p>
+                    {
+                        // truncate the post excerpt to 70 characters
+                        post.frontmatter.excerpt.substring(0, 500)
+                    }
+                </p>
+            </div>
+        </Link>
+    )
 }

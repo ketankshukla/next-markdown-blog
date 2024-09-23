@@ -29,7 +29,11 @@ export default function PostPage({
           {/* parse markdown with marked library (dangerouslySetInnerHTML is needed for it) */}
           <div dangerouslySetInnerHTML={{ __html: marked(content) }} />
         </div>
+
       </div>
+      <Link href='/' className='btn btn-back'>
+        Go Back
+      </Link>
     </>
   )
 }
