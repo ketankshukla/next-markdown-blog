@@ -1,3 +1,10 @@
+---
+title: 'Netflix TPM Interview Questions'
+date: 'September 23, 2024'
+excerpt: 'These are questions for Technical Program Manager at Netflix'
+cover_image: '/images/posts/img2.jpg'
+---
+
 ## USER
 I have an interview with Netflix about a technical program manager position. You are an expert interviewer with Netflix and I want you t0 give me the top 100 questions that a person in your position and expertise would ask along with detailed answers that you would expect the candidate to answer. I want you to give thorough explanations for every question and also mention why it is important to mention the various key points in the answer. I want to land this position on the first try and be able to stand out amongst all the candidates that are applying for this position. Tell me exactly how I should prepare for this interview and give me the first 10 questions of 100. I will ask you to give me questions and answers in batches on 10 until I get the complete 100 questions. Give me the first 10.
 
