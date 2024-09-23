@@ -4,7 +4,7 @@ A Next.js markdown blog static site generator (SSG)
 
 ## Live Demo
 
-- [https://next-markdown-blog-ivory.vercel.app/](https://next-markdown-blog-ivory.vercel.app/)
+- [Ketan's Blog](https://ketanshukla.com/)
 
 #### Screenshot
 
