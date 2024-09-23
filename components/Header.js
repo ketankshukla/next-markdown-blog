@@ -12,7 +12,8 @@ export default function Header() {
             className={router.pathname === '/' ? 'home' : 'not-home'}
           >
             {'<'}
-            {'>'} Blog
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
+            {'>'} Ketan's Blog
           </Link>
         </h2>
       </div>
