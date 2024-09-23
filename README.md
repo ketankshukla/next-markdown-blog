@@ -2,8 +2,6 @@
 
 A Next.js markdown blog static site generator (SSG)
 
-> Note: This project is built with the Next.js Pages Router, to see how to create a Markdown Blog with the Next.js App Router check the [next-markdown-blog-app-router](https://github.com/emanuelefavero/next-markdown-blog-app-router) repository
-
 ## Live Demo
 
 - [https://next-markdown-blog-ivory.vercel.app/](https://next-markdown-blog-ivory.vercel.app/)

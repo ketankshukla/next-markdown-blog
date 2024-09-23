@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
-import { Inter } from '@next/font/google'
+import { Inter } from "next/font/google"
 import '@/styles/globals.css'
 
 const inter = Inter({
@@ -19,7 +19,7 @@ export default function App({ Component, pageProps }) {
           content='A static site generation Next.js Blog'
         />
         <meta name='keywords' content='next.js, blog, static, dev' />
-        <meta name='author' content='Emanuele Favero' />
+        <meta name='author' content='Ketan Shukla' />
         <meta charSet='utf-8' />
         <meta name='robots' content='index, follow' />
         <meta name='language' content='English' />
