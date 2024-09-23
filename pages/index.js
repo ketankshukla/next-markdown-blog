@@ -10,6 +10,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
+        {/* eslint-disable-next-line react/no-unescaped-entities */}
         <title>Ketan's Blog</title>
       </Head>
 
