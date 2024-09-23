@@ -13,7 +13,8 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Next.js Blog</title>
+          {/* eslint-disable-next-line react/no-unescaped-entities */}
+        <title>Ketan's Blog</title>
         <meta
           name='description'
           content='A static site generation Next.js Blog'

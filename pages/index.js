@@ -10,7 +10,7 @@ export default function Home({ posts }) {
   return (
     <>
       <Head>
-        <title>Next.js Blog - Home</title>
+        <title>Ketan's Blog</title>
       </Head>
 
       <div className='posts'>
