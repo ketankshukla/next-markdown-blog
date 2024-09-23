@@ -11,7 +11,7 @@ export default function Post({ post }) {
       <p>
         {
           // truncate the post excerpt to 70 characters
-          post.frontmatter.excerpt.substring(0, 70) + '...'
+          post.frontmatter.excerpt.substring(0, 500)
         }
       </p>
 

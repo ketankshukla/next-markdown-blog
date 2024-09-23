@@ -1,6 +1,6 @@
 ---
 title: 'Python Interview Questions - For Beginners'
-date: 'September 23, 2024'
+date: 'September 24, 2024'
 excerpt: 'These are interview questions for Python programmers just starting out to get their first job.'
 cover_image: '/images/posts/img2.jpg'
 ---
