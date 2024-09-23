@@ -2,7 +2,7 @@
 title: 'Netflix TPM Interview Questions - Claude Sonnet 3.5'
 date: 'September 23, 2024'
 excerpt: 'These are questions for Technical Program Manager at Netflix.'
-cover_image: '/images/posts/img2.jpg'
+cover_image: '/images/posts/netflix-tpm-interview-preparation.png'
 ---
 
 Study Netflix's culture and values: Familiarize yourself with Netflix's culture memo and understand how it applies to the role of a Technical Program Manager.

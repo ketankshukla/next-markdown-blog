@@ -2,7 +2,7 @@
 title: 'Netflix TPM Interview Questions - ChatGPT o1-preview'
 date: 'September 23, 2024'
 excerpt: 'These are questions for Technical Program Manager at Netflix.'
-cover_image: '/images/posts/img2.jpg'
+cover_image: '/images/posts/netflix-tpm-interview-preparation.png'
 ---
 
 ## USER
