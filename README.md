@@ -6,10 +6,6 @@ A Next.js markdown blog static site generator (SSG)
 
 - [Ketan's Blog](https://ketanshukla.com/)
 
-#### Screenshot
-
-<img src="screenshot.png" alt="screenshot" width="300">
-
 ## How to use
 
 ### Installation
